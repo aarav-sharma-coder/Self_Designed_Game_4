@@ -19,7 +19,7 @@ var ammo = 50;
 var zombieHealth = 450;
 var timer = 120;
 var life = 200;
- 
+ var zombieCount = 0;
 function preload(){
    //Loading all the images.
    backgroundImg = loadImage("images/background.jpg");
