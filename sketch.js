@@ -18,6 +18,7 @@ var kills = 0;
 var ammo = 50;
 var zombieHealth = 450;
 var timer = 120;
+var life = 200;
  
 function preload(){
    //Loading all the images.
